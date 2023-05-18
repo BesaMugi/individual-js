@@ -64,5 +64,6 @@ plant.getWatering()
 plant.getDung()
 
 plant.getRipeness()
+plant.getRipeness()
 
 plant.getStatus()
